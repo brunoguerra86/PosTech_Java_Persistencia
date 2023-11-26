@@ -22,6 +22,9 @@ O projeto backend esta com uma estrutura básica de camadas como:
 ### Angular
 Para rodar o projeto angular basta executar o comando `ng serve --open` esse comando vai abrir o seu projeto na portal 4200 do seu navegador.
 
+Angular 14
+`npx ng serve --open`
+
 ### Spring boot
 Para rodar o projeto você deve executar no seu terminal o comando `mvn spring-boot:run` ele vai subir o seu projeto na porta 8080.
 
